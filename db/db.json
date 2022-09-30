@@ -1,0 +1,48 @@
+{
+  "user": [
+    {
+      "name": "paras",
+      "email": "paras@gmail.com",
+      "password": "paras121",
+      "id": 1
+    },
+    {
+      "name": "paras",
+      "email": "paras.com",
+      "password": "paras121",
+      "id": 2
+    },
+    {
+      "name": "rohan",
+      "email": "rohan.com",
+      "password": "rohan121",
+      "id": 3
+    },
+    {
+      "name": "mohan",
+      "email": "mohan.com",
+      "password": "mohan121",
+      "id": 4
+    },
+    {
+      "name": "yes",
+      "email": "yes.com",
+      "password": "yes121",
+      "id": 5
+    },
+    {
+      "name": "newuser",
+      "email": "newuser.com",
+      "password": "newuser121",
+      "id": 6
+    }
+  ],
+  "restaurant": [
+    {
+      "name": "restoname",
+      "address": "dwa",
+      "contact": 933849222,
+      "id": 1
+    }
+  ]
+}
